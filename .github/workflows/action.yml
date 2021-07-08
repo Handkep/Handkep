@@ -15,3 +15,12 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
+          plugin_languages: yes
+          commits_authoring: Paulus.handke@gmail.com
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Europe/Paris # Set timezone
