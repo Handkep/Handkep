@@ -2,8 +2,9 @@
 
 
 ![Metrics](https://github.com/Handkep/Handkep/blob/main/github-metrics.svg)
+<!--
 <img src="https://github.com/Handkep/Handkep/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
+-->
 <!--
 **Handkep/Handkep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
