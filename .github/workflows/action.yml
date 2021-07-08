@@ -24,3 +24,6 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           config_timezone: Europe/Paris # Set timezone
+          plugin_music: yes
+          plugin_music_limit: 4                   # Limit to 4 entries
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/1cNKsEjFPaBl25sl3j6KXW # Use extracted playlist link
