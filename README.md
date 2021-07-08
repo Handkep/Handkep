@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Metrics](https://github.com/Handkep/Handkep/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Handkep/Handkep/blob/main/github-metrics.svg)
 <img src="https://github.com/Handkep/Handkep/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--
