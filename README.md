@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Metrics](https://github.com/Handkep/Handkep/blob/master/github-metrics.svg)
+
 <!--
 **Handkep/Handkep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
