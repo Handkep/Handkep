@@ -346,6 +346,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">Intrinsic</div>
+                                    <div class="artist">Odd Mob</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">Who You Are</div>
                                     <div class="artist">Gaullin</div>
                                 </div>
@@ -353,22 +360,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Sermon</div>
-                                    <div class="artist">Tchami, Malaa</div>
+                                    <div class="name">Petit Matin</div>
+                                    <div class="artist">NTO</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Innerbloom</div>
-                                    <div class="artist">Weir, Tanner Fruit, Cassie Wilson</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Alléenoire - Rauschhaus Remix</div>
-                                    <div class="artist">Holly North, Rauschhaus</div>
+                                    <div class="name">Weightless - jamesjamesjames Remix</div>
+                                    <div class="artist">Ben Böhmer, Panama, jamesjamesjames</div>
                                 </div>
                             </div>
                         </div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2025, 16:17:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2025, 17:21:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
