@@ -353,8 +353,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Blueprint</div>
-                                    <div class="artist">Atric, Frida Darko</div>
+                                    <div class="name">Elephant</div>
+                                    <div class="artist">Funkin Matt</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -367,8 +367,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Innerbloom</div>
-                                    <div class="artist">Weir, Tanner Fruit, Cassie Wilson</div>
+                                    <div class="name">The Sermon</div>
+                                    <div class="artist">Tchami, Malaa</div>
                                 </div>
                             </div>
                         </div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2025, 02:18:22 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2025, 04:11:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
