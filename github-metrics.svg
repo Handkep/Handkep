@@ -348,8 +348,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Come Together</div>
-                                    <div class="artist">Nox Vahn, Marsh</div>
+                                    <div class="name">Innerbloom</div>
+                                    <div class="artist">Weir, Tanner Fruit, Cassie Wilson</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -362,15 +362,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Elephant</div>
-                                    <div class="artist">Funkin Matt</div>
+                                    <div class="name">Overtones</div>
+                                    <div class="artist">Frost</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Six Shooter</div>
-                                    <div class="artist">SNBRN</div>
+                                    <div class="name">Alléenoire - Rauschhaus Remix</div>
+                                    <div class="artist">Holly North, Rauschhaus</div>
                                 </div>
                             </div>
                         </div>
@@ -379,7 +379,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2026, 16:28:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2026, 17:27:15 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
